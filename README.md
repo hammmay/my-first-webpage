@@ -1,38 +1,37 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{HTML and GitHub Exercise}, {05.22.2017}_
+#### _HTML and GitHub Exercise, 05.22.2017_
 
-#### By _**{Witty Chang & Laura Hamilton}**_
+#### By _**Witty Chang & Laura Hamilton**_
 
 ## Description
 
-_{This is a basic webpage that demonstrates beginning HTML tags and coding with link and GIF functionality. }_
+_This is a basic webpage that demonstrates beginning HTML tags and coding with link and GIF functionality._
 
 ## Setup/Installation Requirements
 
 * _Paste HTML into browser_
 * _Run HTML_
 
-_{Open your web browser of choice}_
+_Open your web browser of choice_
 
 ## Known Bugs
 
-_{No known bugs.}_
+_No known bugs._
 
 ## Support and contact details
 
-_{Contact us for any suggestions as this is a freesource code that you are welcome to build upon.}_
-  _{laurahamilton9@gmail.com
-  wcc1213@gmail.com}_
+_Contact us for any suggestions as this is a freesource code that you are welcome to build upon._
+* _laurahamilton9@gmail.com_
+* _wcc1213@gmail.com_
 
 ## Technologies Used
 
 * _HTML_
 * _GIT_
 
-
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_{Witty Chang, Laura Hamilton}_**
+Copyright (c) 2017 **_Witty Chang, Laura Hamilton_**
